@@ -1,0 +1,15 @@
+
+--------Administrativo
+Colocar os códigos em todas as páginas
+Separo o ADMIN
+
+--------Página Inicial
+Pontuação 
+Termômetro Geral daquela semana/mês
+
+--------Termômetro
+Definir alvo de oferta por classe
+alvo de oferta geral
+
+--------Menu_Admin
+Barra não volta ao clicar nas 3 barrinhas
